@@ -1,5 +1,5 @@
 ### Olá! Eu sou Jorge Fonseca
-- 🔭 Atualmente estou trabalhando com java e php(laravel).
+- 🔭 Desenvolvedor Java
 
  <div>
   <a href="https://github.com/luizfonseca830">
