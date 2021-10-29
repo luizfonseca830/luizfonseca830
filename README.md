@@ -1,5 +1,5 @@
 ### Olá! Eu sou Jorge Fonseca
-- 🔭 Desenvolvedor
+- 🔭 Developer
 
  <div>
   <a href="https://github.com/luizfonseca830">
